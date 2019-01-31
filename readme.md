@@ -19,6 +19,9 @@ Copy the example env file and make the required configuration changes in the .en
 
     cp .env.example .env
 
+Generate a new application key
+
+    php artisan key:generate
 
 Run the database migrations (**Set the database connection in .env before migrating**)
 
@@ -30,7 +33,7 @@ Start the local development server
 
 Access the server at http://127.0.0.1:8000
 
-##Routes
+## Routes
 
 **The admin dashboard is secured with a basic http authentification**
     
