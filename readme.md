@@ -32,9 +32,9 @@ Access the server at http://127.0.0.1:8000
 
 ##Routes
 
-    **The admin dashboard is secured with a basic http authentification**
+**The admin dashboard is secured with a basic http authentification**
     
-    **Username:** admin / **Password:* admin
+    Username: admin / Password: admin
 
 * /register/{en/ar} (registration form) 
 * /admin/driver/ (List of registered drivers) 
