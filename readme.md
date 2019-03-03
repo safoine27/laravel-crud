@@ -9,7 +9,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd wssel-test
+    cd laravel-crud
 
 Install all the dependencies using composer
 
