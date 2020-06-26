@@ -5,7 +5,7 @@
 
 Clone the repository
 
-    git clone git@gitlab.com:safoine27/wssel-test.git
+    git clone git@gitlab.com:safoine27/laravel-crud.git
 
 Switch to the repo folder
 
@@ -30,7 +30,7 @@ Start the local development server
 
 Access the server at http://127.0.0.1:8000
 
-##Routes
+## Routes
 
 **The admin dashboard is secured with a basic http authentification**
     
